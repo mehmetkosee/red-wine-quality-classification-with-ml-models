@@ -31,10 +31,9 @@ The original quality score (0-10) was transformed into a **binary classification
 The models were evaluated based on accuracy on the test set (20% split).
 
 | Model | Accuracy Score |
-|-------|----------------|
-| Logistic Regression | 86.56% |
-| Decision Tree | 88.75% |
-| **Random Forest (Best Model)** | **90.31%** |
+| Logistic Regression | %86.56 |
+| Decision Tree | %88.75 |
+| **Random Forest** | **%90.31** |
 
 *The Confusion Matrix shows that the Random Forest model has high precision in distinguishing between good and bad wines.*
 
